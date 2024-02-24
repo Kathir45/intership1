@@ -5,7 +5,7 @@
 }
 .container{
     display: flex;
-    width: 720px;
+    width: 100vw;
     height: 30px;
     background-color: grey;
     position: sticky;
